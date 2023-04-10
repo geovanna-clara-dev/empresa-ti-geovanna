@@ -86,6 +86,11 @@ nav li a:hover{
     color: black;
     background-color: white;
 }
+.download{
+    text-decoration: none;
+    color: white;
+}
+
 .texto .botoes button.overlay{
     background: white;
     color: black;
